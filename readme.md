@@ -1,9 +1,9 @@
-# [bigrat.monster]
+# [thebigrat.com]
 
 a picture of big rat
 
 ## 🚨 So, I want to shut this project down (or at least freeze it). Want to leave a comment?
-Please view discussion [#72](https://github.com/bigratmonster/bigrat.monster/discussions/72).
+Please view discussion [#72](https://github.com/bigratmonster/thebigrat.com/discussions/72).
 
 ## Copyright Information
 
@@ -19,7 +19,7 @@ For any other file not under the [/media/][media-dir] directory, they are licens
 
 Please follow the instructions in [usage.md].
 
-# [merch.bigrat.monster]
+# [merch.thebigrat.com]
 
 The website is owned and operated by [humboldt123].  
 That website's prices are a joke.
@@ -28,10 +28,10 @@ Please [contact them][email-skrub] for any content removals.
 
 ---
 
-ℹ Drop02 of bigrat.monster merch is now out!  
-Check them out at <https://drop02.merch.bigrat.monster/>
+ℹ Drop02 of thebigrat.com merch is now out!  
+Check them out at <https://drop02.merch.thebigrat.com/>
 
-# [bigrat.monster]: Image Index
+# [thebigrat.com]: Image Index
 
 ## By the repository owner
 
@@ -91,15 +91,15 @@ A block of cheese from <https://www.onlygfx.com/cartoon-cheese-png-transparent/>
 big rat is mathematically perfect
 
 <!-- Links in main parts -->
-[bigrat.monster]: https://bigrat.monster/
-[merch.bigrat.monster]: https://merch.bigrat.monster/
-[big rat]: https://bigrat.monster/media/bigrat.png
+[thebigrat.com]: https://thebigrat.com/
+[merch.thebigrat.com]: https://merch.thebigrat.com/
+[big rat]: https://thebigrat.com/media/bigrat.png
 [usage.md]: usage.md
-[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bbigrat.monster%5D%20Copyright
+[email-copyright]: mailto:sonothing.emailme@gmail.com?subject=%5Bthebigrat.com%5D%20Copyright
 [media-dir]: ./media
 [license]: ./license.md
-[email-skrub]: mailto:skrub@bigrat.monster
-[issue]: https://github.com/bigratmonster/bigrat.monster/issues/new/choose/
+[email-skrub]: mailto:skrub@thebigrat.com
+[issue]: https://github.com/bigratmonster/thebigrat.com/issues/new/choose/
 
 <!-- Users in credits -->
 [Brady]: https://github.com/ZeroMemes/

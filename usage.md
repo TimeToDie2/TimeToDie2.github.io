@@ -2,7 +2,7 @@
 
 ## Why does this page exist
 
-`bigrat.monster` is created just for a joke. The domain may expire when I forgot about it, or when I run out of money.
+`thebigrat.com` is created just for a joke. The domain may expire when I forgot about it, or when I run out of money.
 
 ## Some things you need to know
 
