@@ -30,7 +30,7 @@ function nextQuestion() {
       date.getDate(),
       date.getYear()/20,
       date.getMilliseconds()%18
-    ]; // This is fucking funny
+    ]; // This is fucking funny this is very fucking funny lmfao
     let placement = `Entj Axis: ${axae[3]* ((Math.random() * 3) + 1)|0 + (((Math.random() * 6) + 1)-3)|0}pt<br>
                      Ratl Axis: ${axae[1]* ((Math.random() * 3) + 1)|0 + (((Math.random() * 6) + 1)-3)|0}pt<br>
                      Trll Axis: ${axae[2]* ((Math.random() * 3) + 1)|0 + (((Math.random() * 6) + 1)-3)|0}pt<br>
